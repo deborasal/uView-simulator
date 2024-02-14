@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+#Folders
+/C
+/Library
+/Logs
+/obj
+/Packages
+/Processed
+/ProjectSettings
+/Temp
+
+
